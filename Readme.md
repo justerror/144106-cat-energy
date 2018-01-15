@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Руслан Турсунов](https://up.htmlacademy.ru/adaptive/13/user/144106).
-* Наставник: `Неизвестно`.
+* Наставник: Без наставника.
 
 ---
 
